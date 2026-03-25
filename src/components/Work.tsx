@@ -5,34 +5,34 @@ import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
 const projects = [
   {
-    title: "Solid Starters",
-    category: "Low-Code Platform",
-    tools: "Angular, Next.js, NestJS, MongoDB",
+    title: "Virgin Megastore",
+    category: "B2C E-Commerce · MENA Region",
+    tools: "SAP Commerce Cloud CCv2, Checkout.com, Promotion Engine",
+    image: "/images/Maxlife.png",
+  },
+  {
+    title: "MAKRO",
+    category: "B2C / B2B Retail",
+    tools: "SAP Hybris 1905, SAP CRM, Datahub, Datanomics APIs",
     image: "/images/Solidx.png",
   },
   {
-    title: "Radix",
-    category: "E-Commerce",
-    tools: "Angular, Next.js, NestJS, CMS",
+    title: "Perkins Engine",
+    category: "B2B Commerce Portal",
+    tools: "SAP Hybris 1905, S/4HANA RFC, SAP BTP, SonarQube",
     image: "/images/radix.png",
   },
   {
-    title: "Bond Cancellation",
-    category: "Import-Export Automation",
-    tools: "Angular, Next.js, NestJS, Workflows",
+    title: "Caterpillar (CAT)",
+    category: "B2B / B2C Configuration Portal",
+    tools: "SAP Hybris 2011, CCv2, OData APIs, Cloud Deployments",
     image: "/images/bond.png",
   },
   {
-    title: "Sapphire",
-    category: "CRM Platform",
-    tools: "AngularJS, NestJS, PostgreSQL",
+    title: "Reliance Digital",
+    category: "B2C E-Commerce",
+    tools: "SAP Hybris 6.2, SOLR, REST APIs, WCMS, HMC",
     image: "/images/sapphire.png",
-  },
-  {
-    title: "Mpro",
-    category: "Insurance Platform",
-    tools: "React.js, Node.js, Microservices",
-    image: "/images/Maxlife.png",
   },
 ];
 
