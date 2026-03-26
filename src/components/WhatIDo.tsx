@@ -98,12 +98,12 @@ const WhatIDo = () => {
               <div className="what-content-flex">
                 <div className="what-tags">SAP Commerce Cloud</div>
                 <div className="what-tags">SAP Hybris</div>
-                <div className="what-tags">WCMS</div>
-                <div className="what-tags">BackOffice</div>
+                <div className="what-tags">WCMS & BackOffice</div>
                 <div className="what-tags">SOLR</div>
                 <div className="what-tags">OMS</div>
                 <div className="what-tags">OCC APIs</div>
                 <div className="what-tags">Promotion Engine</div>
+                <div className="what-tags">SAP CX AI Toolkit</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -141,8 +141,8 @@ const WhatIDo = () => {
                 <div className="what-tags">S/4HANA RFC</div>
                 <div className="what-tags">SAP CPI/BTP</div>
                 <div className="what-tags">SAP CRM</div>
-                <div className="what-tags">Datahub</div>
                 <div className="what-tags">Microservices</div>
+                <div className="what-tags">Generative AI</div>
                 <div className="what-tags">Python</div>
               </div>
               <div className="what-arrow"></div>
